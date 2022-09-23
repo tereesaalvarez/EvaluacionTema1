@@ -8,4 +8,5 @@ matriz = [
 
     [4, 4, 4, 13]]
 
-matriz
+matriz[1][3]=sum(matriz[1][:-1])
+matriz[3][3]=sum(matriz[3][:-1])
