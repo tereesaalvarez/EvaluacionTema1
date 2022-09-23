@@ -9,8 +9,10 @@ if __name__ == '__main__':
 
 #Ejercicio2
 if __name__ == '__main__':
+    print('Ejercicio 2')
     print(cadena())
 
 #Ejercicio3
 if __name__ == '__main__':
+    print('Ejercicio 3')
     print(listas())
