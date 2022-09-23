@@ -1,5 +1,5 @@
 from Ejercicio1 import *
-from Ejercicio3 import *
+from Ejercicio2 import *
 
 #Ejercicio1
 if __name__ == '__main__':
